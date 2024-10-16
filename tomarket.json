@@ -1,9 +1,13 @@
 {
     "ref": "00006k3i",
-    "skipErrorTasks": [53, 101, 206, 243, 264],
-    "ver": "v1.0.0",
+    "skipErrorTasks": [53, 101, 206, 243, 264, 305, 267, 301],
+    "ver": "v1.0.1",
     "noti": [
       "Tool by Võ Xuân Nhật!",
       "Liên hệ: Facebook: https://www.facebook.com/VXN.Sun SĐT: 0768571011"
-    ]
+    ],
+    "puzzle": {
+      "task_id": 2000,
+      "code": "3,4,9"
+    }
   }
