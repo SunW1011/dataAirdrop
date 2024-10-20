@@ -2,34 +2,80 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "x5oxA08R0S",
+  "server": {
+    "pro": [
+      {
+        "url": "http://localhost:3000/api/",
+        "status": 1
+      }
+    ],
+    "free": [
+      {
+        "url": "https://vqzuejeiiemf1.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://weajonqbsyvr2.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://oraiuhooppds3.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://mwmyjxhwhvkd4.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://agujrczbhepn5.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://iqwuumqkuczb6.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://bmyrrpbvnlaa8.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "id": "https://hpwsqafwqdqr9.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "id": "https://enmobnpmpxkw10.vercel.app/api/",
+        "status": 1
+      }
+    ]
+  },
   "payloadServer": [
     {
       "id": "vqzuejeiiemf1",
-      "status": 0
+      "status": 1
     },
     {
       "id": "weajonqbsyvr2",
-      "status": 0
+      "status": 1
     },
     {
       "id": "oraiuhooppds3",
-      "status": 0
+      "status": 1
     },
     {
       "id": "mwmyjxhwhvkd4",
-      "status": 0
+      "status": 1
     },
     {
       "id": "agujrczbhepn5",
-      "status": 0
+      "status": 1
     },
     {
       "id": "iqwuumqkuczb6",
-      "status": 0
+      "status": 1
     },
     {
       "id": "zseniuazehyf7",
-      "status": 1
+      "status": 0
     },
     {
       "id": "bmyrrpbvnlaa8",
@@ -116,16 +162,12 @@
     {
       "id": "dc627a62-f747-4cbb-981f-62cf82a85458",
       "answer": "BLUMTASTIC"
-    },
-    {
-      "id": "71ad89ea-f11f-4825-af9c-408fba7dfd8e",
-      "answer": "BLUMFORCE"
     }
   ],
   "tribeSkip": [
     "16add7bb-6050-4b52-823f-fefce884671f"
   ],
-  "ver": "v0.1.6",
+  "ver": "v0.1.7",
   "noti": [
     "Tool by Võ Xuân Nhật!",
     "Liên hệ: Facebook: https://www.facebook.com/VXN.Sun SĐT: 0768571011"
