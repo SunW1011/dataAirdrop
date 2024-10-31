@@ -10,11 +10,19 @@
         "status": 1
       },
       {
-        "url": "https://blum-backup1.vercel.app/api/",
+        "url": "https://blum-server3.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server3.vercel.app/api/",
+        "url": "https://blum-server4.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server5.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server6.vercel.app/api/",
         "status": 1
       }
     ],
@@ -118,8 +126,13 @@
     {
       "id": "6fb7499f-8b38-4132-8255-c3184cc2712c",
       "answer": "PUMPIT"
+    },
+    {
+      "id": "98d390d1-95da-475f-8df9-53a335842c3a",
+      "answer": "Blumhelps"
     }
   ],
+
   "tribeSkip": [
     "16add7bb-6050-4b52-823f-fefce884671f"
   ],
