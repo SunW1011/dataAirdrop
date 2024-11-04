@@ -1,14 +1,13 @@
 {
     "ref": "00006k3i",
-    "skipErrorTasks": [53, 101, 206, 243, 264, 305, 308, 267, 301, 4002, 4005, 5006, 5007, 5008, 5009, 5000],
+    "skipErrorTasks": [53, 101, 206, 243, 264, 305, 308, 267, 301, 2026, 4002, 4005, 5006, 5007, 5008, 5009, 5000],
     "ver": "v1.0.3",
     "noti": [
       "Tool by Võ Xuân Nhật!",
-      "Liên hệ: Facebook: https://www.facebook.com/VXN.Sun SĐT: 0768571011",
-      "Đã cập nhật phiên bản mới v1.0.3, có thể đây là phiên bản cập nhật cuối cùng rồi. Ae củi lửa cẩn thận tầm dừng tool dần đi nhé. Chúc ae có một vụ mùa cà chua thắng lớn, mãi iu 😘"
+      "Liên hệ: Facebook: https://www.facebook.com/VXN.Sun SĐT: 0768571011"
     ],
     "puzzle": {
-      "task_id": 2026,
-      "code": "5,4,8"
+      "task_id": 4021,
+      "code": "3,7,10"
     }
   }
