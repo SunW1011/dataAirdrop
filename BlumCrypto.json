@@ -1,19 +1,11 @@
 {
   "skipHandleTask": false,
   "skipHandleGame": false,
-  "randomPoints": [140, 200],
+  "randomPoints": [140, 210],
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "x5oxA08R0S",
   "server": {
     "pro": [
-      {
-        "url": "https://blum-server12.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server13.vercel.app/api/",
-        "status": 1
-      },
       {
         "url": "https://blum-server14.vercel.app/api/",
         "status": 1
@@ -37,15 +29,11 @@
       {
         "url": "https://blum-server19.vercel.app/api/",
         "status": 1
-      },
-      {
-        "url": "https://blum-server20.vercel.app/api/",
-        "status": 1
       }
     ],
     "free": [
       {
-        "url": "https://blum-server20.vercel.app/api/",
+        "url": "https://blum-server19.vercel.app/api/",
         "status": 1
       }
     ]
@@ -191,6 +179,18 @@
     {
       "id": "38284c35-e1e3-43da-b2c6-34981677f926",
       "answer": "Blumsss"
+    },
+    {
+      "id": "addab034-69c2-48f4-a532-84dc2b33a0d2",
+      "answer": "BLUMRULES"
+    },
+    {
+      "id": "5dcd66db-3872-4cf4-a3d0-85e6a909a3d4",
+      "answer": "BLUMTIPS"
+    },
+    {
+      "id": "23416258-f003-4d91-a21e-c0f7bccbbe8f",
+      "answer": "BLUMMUNITY"
     }
   ],
   "tribeSkip": [
