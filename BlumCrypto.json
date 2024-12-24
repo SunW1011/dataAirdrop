@@ -29,15 +29,15 @@
       },
       {
         "url": "https://blum-server26.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server27.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server28.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server29.vercel.app/api/",
@@ -45,7 +45,7 @@
       },
       {
         "url": "https://blum-server30.vercel.app/api/",
-        "status": 0
+        "status": 1
       }
     ],
     "free": [
@@ -276,12 +276,16 @@
     {
       "id": "379d6df4-0b4c-4679-92f0-5d4d1dd8c333",
       "answer": "Gonnablum"
+    },
+    {
+      "id": "dc27c24f-26e2-4218-acc7-ec190f1ae763",
+      "answer": "BIGPIZZA"
     }
   ],
   "tribeSkip": [
     "16add7bb-6050-4b52-823f-fefce884671f"
   ],
-  "ver": "v0.2.4",
+  "ver": "v0.2.7",
   "noti": [
     "Tool by Võ Xuân Nhật!",
     "Liên hệ: Facebook: https://www.facebook.com/VXN.Sun SĐT: 0768571011"
